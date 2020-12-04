@@ -12,9 +12,9 @@ If you like it buy me a coffee :v.
 
 ## Screen shoots:
 
-<img src="/screen_shoot/1.png?raw=true" width="200" height="400" />
-<img src="/screen_shoot/2.png?raw=true" width="200" height="400" />
-<img src="/screen_shoot/3.png?raw=true" width="200" height="400" />
+screenshoot 1 | screenshoot 2 | screenshoot 3
+--- | ---
+![]<img src="/screen_shoot/1.png?raw=true" width="200" height="400" /> | ![]<img src="/screen_shoot/2.png?raw=true" width="200" height="400" /> | ![]<img src="/screen_shoot/3.png?raw=true" width="200" height="400" />
 
 ## Techical details:
 - Bloc pattern.
