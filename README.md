@@ -11,11 +11,7 @@ If you want to contact with me, my skype: na.ngopo
 If you like it buy me a coffee :v.
 
 ## Screen shoots:
-![Alt text](/screen_shoot/1.png?raw=true "page 1")
-
-![Alt text](/screen_shoot/2.png?raw=true "page 2")
-
-![Alt text](/screen_shoot/3.png?raw=true "page 3")
+![Alt text](/screen_shoot/1.png?raw=true "page 1") ![Alt text](/screen_shoot/2.png?raw=true "page 2")![Alt text](/screen_shoot/3.png?raw=true "page 3")
 ## Techical details:
 - Bloc pattern.
 - Theme data provider(you may implement switch theme function, but it quite easy).
