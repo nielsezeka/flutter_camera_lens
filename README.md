@@ -1,4 +1,4 @@
-# flutter_lens
+# Flutter lens Database app
 
 A Flutter project for tracking camera lens
 
@@ -12,7 +12,7 @@ If you like it buy me a coffee :v.
 
 ## Screen shoots:
 
-<img src="https://github.com/nielsezeka/flutter_camera_lens/tree/main/screen_shoot/screen_shoot/1.png" width="200" height="400" />
+<img src="/nielsezeka/flutter_camera_lens/blob/main/screen_shoot/1.png?raw=true" width="200" height="400" />
 
 ## Techical details:
 - Bloc pattern.
