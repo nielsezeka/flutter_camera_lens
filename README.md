@@ -1,16 +1,23 @@
 # flutter_lens
 
-A new Flutter project.
+A Flutter project for tracking camera lens
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is an application that I will not publish in appstore. It's fully functions and runable with smooth performance.
+Feel free to use it or publish to appstore/ playstore with your account. 
 
-A few resources to get you started if this is your first Flutter project:
+If you want to contact with me, my skype: na.ngopo
+If you like it buy me a coffee :v.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screen shoots:
+![Alt text](/screen_shoot/1.png?raw=true "page 1")
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt text](/screen_shoot/2.png?raw=true "page 2")
+
+![Alt text](/screen_shoot/3.png?raw=true "page 3")
+## Techical details:
+- Bloc pattern.
+- Theme data provider(you may implement switch theme function, but it quite easy).
+- All screens splitted to small parts to avoid headache while reading infinity widget tree in code :v.
+
