@@ -10,9 +10,21 @@ class TabbarMainView extends StatefulWidget {
   _TabbarMainViewState createState() => _TabbarMainViewState();
 }
 
-class _TabbarMainViewState extends State<TabbarMainView> with SingleTickerProviderStateMixin {
+class _TabbarMainViewState extends State<TabbarMainView>
+    with SingleTickerProviderStateMixin {
   int _selectedIndex = 0;
-  final screenList = [ListOfManafacture(), ListOfBranch()];
+  final screenList = [
+    ListOfManafacture(),
+    ListOfBranch(),
+    Container(
+      color: Color(0xFFB388FF),
+      child: Center(child: Text('Under construction page')),
+    ),
+    Container(
+      color: Color(0xFFB388FF),
+      child: Center(child: Text('Under construction page')),
+    ),
+  ];
   @override
   void initState() {
     super.initState();
