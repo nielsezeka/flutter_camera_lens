@@ -10,6 +10,8 @@ Feel free to use it or publish to appstore/ playstore with your account.
 If you want to contact with me, my skype: na.ngopo
 If you like it buy me a coffee :v.
 
+Please note some lib are not updated to Flutter 2 due their original author.
+
 ## Screen shoots:
 
 <img src="/screen_shoot/1.png?raw=true" width="200" height="400" />   <img src="/screen_shoot/2.png?raw=true" width="200" height="400" />    <img src="/screen_shoot/3.png?raw=true" width="200" height="400" />
